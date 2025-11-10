@@ -46,7 +46,7 @@ targeted and efficient aid delivery.
 * Deployed a **custom TensorFlow Lite–MobileNet ML model** for animal detection and integrated **ROS 2 with DDS protocol** for real-time tracking, behavior analysis, and deterrence control.
 
 
-**[Warehouse Drone: eYantra](https://www.github.com/ShaneshrajeK/wearhouse_drone)** (08/2024 – 03/2025)
+**[Warehouse Drone: eYantra](https://www.github.com/ShaneshrajeK/warehouse_drone)** (08/2024 – 03/2025)
 
 * Developing an **indoor warehouse drone** with robust stabilization and **autonomous navigation** through **PID tuning and control optimization**.
 * Implementing **AprilTag-based camera tracking** for pose estimation and coordinate mapping in **GPS-denied environments**.
